@@ -7,7 +7,7 @@
       a. Ubuntu
       b. Debian
       c. Suse
-Other distributions like Suse are not paid.
+Other distributions like Suse are not free.
 Ensure that the distro you are downloading is published by the official Publisher.
 1.Select a distribution and click on get to begin the download and install.
 1. Once downloaded you can open it by clicking on the Start menu and searching for the distro name.

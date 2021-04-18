@@ -2,7 +2,7 @@
 ### Installation (with RDP and seamless support)
 Kali Linux supports GUI mode a new seamless mode which runs Kali GUI on top of your windows desktop.
 
-Info: https://www.kali.org/docs/wsl/win-kex/
+Ref: https://www.kali.org/docs/wsl/win-kex/
 
 Steps:
 1. Search for Kali Linux in the store app,  click on get and install.

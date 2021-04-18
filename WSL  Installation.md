@@ -1,4 +1,14 @@
 #WSL2 - Installation
+
+NOTE: You need Windows 10 Build 2004 or higher. Build 20H2 recommended.
+
+Reference Links:
+
+    WSL:
+    https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+    https://docs.microsoft.com/en-us/windows/wsl/
+    
+
 1. RUN POWERSHELL as administrator and run the below command
 `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 1. Reboot windows
@@ -22,3 +32,4 @@
 1. The windows terminal app is an official release from Microsoft and available on the Microsoft Store.
 1. The windows terminal app is a multipurpose app that can open various terminals like CMD, Powershell, WSL and even Bash in tab style layout.
 1. Its a good app to open multiple WSL terminals and Powershell in tabs in a single app without cluttering the taskbar.
+
