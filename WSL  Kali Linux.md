@@ -1,4 +1,15 @@
 ## Kali Linux
+Pre-requisite: WSL2 Should be installed. Please see previous article in this repo.
+NOTE: It is important that you know how to operate Kali linux. The tools that get installed request for configuration info that one should have knowledge of. 
+
+### Installation basic (Windows 11)
+1. In powershell/terminal run the command 'wsl --install kali-linux --web-download
+2. This will install the minimal version of Kali linux. Once installed it will ask you to create a username and password.
+3. Once set run the command 'sudo apt update && sudo apt upgrade -y' to update all packages.
+4. Now you can run either of the 2 below commands for the default or large version of Kali
+   'sudo apt install -y kali-linux-default' OR
+   'sudo apt install -y kali-linux-large'
+
 ### Installation (with RDP and seamless support)
 Kali Linux supports GUI mode a new seamless mode which runs Kali GUI on top of your windows desktop.
 
